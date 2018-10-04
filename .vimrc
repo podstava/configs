@@ -23,7 +23,7 @@ Plugin 'gmarik/Vundle.vim'	" install Vundle
 Plugin 'scrooloose/nerdtree' 	" install NerdTree
 Plugin 'majutsushi/tagbar'      " install TagBar
 "Plugin 'Valloric/YouCompleteMe'
-Plugin 'bling/vim-airline' 	" install Vim-Airline
+Plugin 'vim-airline/vim-airline-themes' 	" install Vim-Airline
 Plugin 'tpope/vim-surround'	" autoclose tags html
 
 "=====================================================
@@ -40,7 +40,7 @@ Plugin 'mitsuhiko/vim-jinja'		" Jinja support for vim
 Plugin 'mitsuhiko/vim-python-combined'  " Combined Python 2/3 for Vim
 "=====================================================
 "Git
-Plugin 'trope/vim-fugitive'
+Plugin 'tpope/vim-fugitive'
 "Virtualenv
 Plugin 'jmcantrell/vim-virtualenv'
 
